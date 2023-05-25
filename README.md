@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SrivasPiyush
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning react
-- 💞️
 - 📫 How to reach me srivapiyush2020@gmail.com
 
 <!---
